@@ -10,6 +10,8 @@
 
 *DURATION*: 12 WEEKS
 
+*MENTOR*: NEELA SANTOSH
+
 # Portfolio Website Implementation Guide (TypeScript)
 
 ## 📌 Project Structure
